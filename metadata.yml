@@ -1,0 +1,12 @@
+---
+:id: 139978546
+:submitters:
+- :name: Atul Atul
+  :email: mt1210623@maths.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-11 12:37:57.300951000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-11 05:37:57.300951000 Z
+:status: processed
+:score: 6.0
